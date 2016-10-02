@@ -1,0 +1,13 @@
+<!--5-->
+<div>
+    <!--get data from local storage-->
+    <span>
+        <h3>Username : {{user.profile.nickname}}</h3>
+        <h4>User Email: {{user.profile.email}}</h4>
+
+        <md-button class="md-raised" ng-click="user.getSecretMessage()">My PIN</md-button>
+        <md-button class="md-raised" ng-click="user.getMessage()">Courses</md-button>
+        <h3><strong>{{user.message}}</strong></h3>
+</span>
+</div>
+
