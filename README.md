@@ -1,4 +1,4 @@
 # auth0-reg
 AUTH0, AngularJS, NodeJS
 
-**Demo** > https://vimeo.com/185180596
+**Demo video** > https://goo.gl/sST44i
